@@ -1,0 +1,9 @@
+## Interface: 110002
+## Title: Ping Message |cff00aa001.0.1|r
+## Author: Keirmot
+## Notes: Plays a ping sound when you receive an Ingame or Real ID whisper
+## Version: 1.0.1
+## IconTexture: Interface\AddOns\PingMessage\Assets\PingLogo
+## SavedVariables: PingMessageOptions
+
+PingMessage.lua
