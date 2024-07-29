@@ -3,7 +3,7 @@
 ## Author: Keirmot
 ## Notes: Plays a ping sound when you receive an Ingame or Real ID whisper
 ## Version: 1.0.1
-## IconTexture: Interface\AddOns\PingMessage\Assets\PingLogo
+## IconTexture: Interface\AddOns\PingMessage\Assets\logo
 ## SavedVariables: PingMessageOptions
 
 PingMessage.lua
