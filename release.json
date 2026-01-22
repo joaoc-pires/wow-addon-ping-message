@@ -1,0 +1,20 @@
+{
+  "releases": [
+    {
+      "name": "PingMessage",
+      "version": "1.0.2",
+      "filename": "PingMessage-1.0.2.zip",
+      "nolib": false,
+      "metadata": [
+        {
+          "flavor": "mainline",
+          "interface": 120000
+        },
+        {
+          "flavor": "mainline",
+          "interface": 120002
+        }
+      ]
+    }
+  ]
+}
