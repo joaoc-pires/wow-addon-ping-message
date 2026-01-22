@@ -2,8 +2,8 @@
   "releases": [
     {
       "name": "PingMessage",
-      "version": "1.0.2",
-      "filename": "PingMessage-1.0.2.zip",
+      "version": "1.0.3",
+      "filename": "PingMessage-1.0.3.zip",
       "nolib": false,
       "metadata": [
         {
