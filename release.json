@@ -1,20 +1,16 @@
 {
-  "releases": [
-    {
-      "name": "PingMessage",
-      "version": "1.0.3",
-      "filename": "PingMessage-1.0.3.zip",
-      "nolib": false,
-      "metadata": [
-        {
-          "flavor": "mainline",
-          "interface": 120000
-        },
-        {
-          "flavor": "mainline",
-          "interface": 120002
-        }
-      ]
-    }
-  ]
+    "releases":  [
+                     {
+                         "name":  "PingMessage",
+                         "version":  "1.0.4",
+                         "filename":  "PingMessage-1.0.4.zip",
+                         "nolib":  false,
+                         "metadata":  [
+                                          {
+                                              "flavor":  "mainline",
+                                              "interface":  120007
+                                          }
+                                      ]
+                     }
+                 ]
 }
